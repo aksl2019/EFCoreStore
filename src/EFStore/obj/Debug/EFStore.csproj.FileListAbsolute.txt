@@ -1,0 +1,11 @@
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EFStore.exe.config
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EFStore.exe
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EFStore.pdb
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\obj\Debug\EFStore.csprojResolveAssemblyReference.cache
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\obj\Debug\EFStore.exe
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\obj\Debug\EFStore.pdb
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EntityFramework.dll
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EntityFramework.SqlServer.dll
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EntityFramework.xml
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\EntityFramework.SqlServer.xml
+E:\TrainingKit\.Net Core\EFCore\EFCoreStore\EFStore\bin\Debug\zh-Hans\EntityFramework.resources.dll

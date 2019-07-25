@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TrainingKit\\.Net Core\\EFCore\\EFCoreStore\\src\\EFCoreStore\\EFCoreStore.csproj": {}
+  },
+  "projects": {
+    "D:\\TrainingKit\\.Net Core\\EFCore\\EFCoreStore\\src\\EFCoreStore\\EFCoreStore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TrainingKit\\.Net Core\\EFCore\\EFCoreStore\\src\\EFCoreStore\\EFCoreStore.csproj",
+        "projectName": "EFCoreStore",
+        "projectPath": "D:\\TrainingKit\\.Net Core\\EFCore\\EFCoreStore\\src\\EFCoreStore\\EFCoreStore.csproj",
+        "packagesPath": "C:\\Users\\zheng\\.nuget\\packages\\",
+        "outputPath": "D:\\TrainingKit\\.Net Core\\EFCore\\EFCoreStore\\src\\EFCoreStore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "D:\\TrainingKit\\.Net Core\\EFCore\\EFCoreStore\\NuGet.Config",
+          "C:\\Users\\zheng\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/dotnet-core/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win10-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
